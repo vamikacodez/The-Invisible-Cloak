@@ -1,5 +1,5 @@
 # The-Invisible-Cloak
 ### INTRODUCTION
-'''
-the program uses OpenCV to generate an invisble cloak of red colour. We mask all the red colour objects in the camera fram with the originl background image.this creates an invisible cloak like architechture. 
-'''
+
+The program uses OpenCV to generate an invisible cloak of red colour. We mask all the red colour objects in the camera frame with the original background image. This creates an invisible cloak like architecture. 
+
